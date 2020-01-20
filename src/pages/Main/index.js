@@ -6,6 +6,9 @@ import {Container} from './styles';
 export default function Main() {
   return (
     <Container>
+      {/* 
+        Lottie_Animation
+      */}
       <Lottie
         source={require('../../assets/animations/dev.json')}
         autoPlay
